@@ -1,0 +1,21 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+logs
+*.log
+npm-debug.log*
+
+# Ignore dotenv environment files (caso use)
+.env
+
+# Ignore uploads temporários
+uploads/
+
+# Ignore sistemas operacionais específicos
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
